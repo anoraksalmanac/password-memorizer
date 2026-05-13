@@ -1,2 +1,2 @@
-# password-memorizer
+# password memorizer
 password memorizer

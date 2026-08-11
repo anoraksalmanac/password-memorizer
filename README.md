@@ -53,3 +53,10 @@ cryptography
 fernet
 keyring
 (maybe more, I dont have a complete list)
+
+## donations
+i worked really hard on this
+
+please?  🥺👉👈
+        
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H0L824UPYI)
